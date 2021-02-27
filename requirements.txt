@@ -1,0 +1,12 @@
+flask
+flask-bcrypt
+flask-login
+flask-sqlalchemy
+flask-wtf
+flask-mail
+flask-admin
+email-validator
+Pillow
+python-slugify
+gunicorn
+instamojo_wrapper
